@@ -1,0 +1,13 @@
+{
+    "require": {
+        "lesstif/php-jira-rest-client": "^1.19"
+    },
+    "autoload": {
+	    "classmap": [
+	      "classes/class_WebServices.php",
+	      "classes/class_SwfToJira.php",
+	      "classes/class_JiraToSwf.php",
+	      "classes/class_Sync.php"
+	    ]
+  	}
+}

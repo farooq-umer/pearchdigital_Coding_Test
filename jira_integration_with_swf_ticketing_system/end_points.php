@@ -1,0 +1,30 @@
+<?php
+
+define('USER_DETAIL_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetUserDetails');
+define('USER_DETAIL_BY_EMAIL_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetUserDetailsByEmail');
+define('TASK_DETAILS_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskDetails');
+define('TASK_STATUS_HISTORY_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskStatusHistory');
+define('TASK_STATUS_HISTORY_BY_DATE', 'http://'.SWF_INSTANCE.'/ws/jira/GetTasksStatusHistoryByDateRange');
+define('TASK_EVENTS_BY_DATE_RANG_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskEventsByDateRange');
+define('TASK_NOTES_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskNotes');
+define('TASK_ATTACHMENTS_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskAttachments');
+define('ALL_PROJECTS_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetAllProjects');
+define('PROJECT_DETAILS_BY_CODE_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetProjectDetailsByCode');
+define('PROJECT_DETAILS_BY_ID_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetProjectDetailsById');
+define('TASK_DETAILS_ALL_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskDetailsAll');
+define('TASK_CATEGORIES_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskCategories');
+define('CATEGORY_BY_ID_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetCategoryById');
+define('TASK_STATUSES_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskStatuses');
+define('TASK_PRIORITIES_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskPriorities');
+define('STATUS_BY_ID_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetStatusById');
+define('STATUS_BY_NAME_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetStatusByName');
+define('GET_SPRINT_BY_ID_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetSprintById');
+define('GET_ALL_SPRINTS_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetSprints');
+define('TASK_TYPES_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskTypes');
+define('ADD_TASK_NOTE_URL', 'http://'.SWF_INSTANCE.'/ws/jira/AddTaskNote');
+define('UPDATE_TASK_STATUS_URL', 'http://'.SWF_INSTANCE.'/ws/jira/UpdateTaskStatus');
+define('TASK_NOTE_BY_ID_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskNoteById');
+define('TASK_AUDIT_LOG_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskAuditLog');
+define('TASK_AUDIT_LOG_BY_DATE_RANG_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskAuditLogByDateRange');
+define('TASK_AUDIT_LOG_ALL_BY_DATE_RANG_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskAuditLogAllByDateRange');
+define('TASK_ATTACHMENTS_BY_DATE_RANGE_URL', 'http://'.SWF_INSTANCE.'/ws/jira/GetTaskAttachmentsByDateRange');

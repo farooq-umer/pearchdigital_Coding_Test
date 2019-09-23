@@ -1,0 +1,12 @@
+.idea
+.buildpath
+.project
+.settings
+log
+log/cron_time
+logs
+logs/cron_time
+.env
+composer.phar
+exp.php
+test_script.php

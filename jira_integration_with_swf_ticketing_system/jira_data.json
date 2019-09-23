@@ -1,0 +1,115 @@
+{
+  "swf_task_statuses" :
+  {
+        "O": {
+        "task_status_id":"1",
+        "task_status_code":"O",
+        "task_status_name":"Open"
+        },
+        "A": {
+        "task_status_id":"2",
+        "task_status_code":"A",
+        "task_status_name":"Acknowledged"
+        },
+        "ON_HACI": {
+        "task_status_id":"3",
+        "task_status_code":"ON_HACI",
+        "task_status_name":"On Hold / Awaiting Customer Information"
+        },
+        "OFF_HFP": {
+        "task_status_id":"4",
+        "task_status_code":"OFF_HFP",
+        "task_status_name":"Off Hold / Feedback Provided"
+        },
+        "IP": {
+        "task_status_id":"5",
+        "task_status_code":"IP",
+        "task_status_name":"In progress"
+        },
+        "WQC": {
+        "task_status_id":"7",
+        "task_status_code":"WQC",
+        "task_status_name":"With QC"
+        },
+        "DTUAT": {
+        "task_status_id":"8",
+        "task_status_code":"DTUAT",
+        "task_status_name":"Delivered to UAT"
+        },
+        "UATCBC": {
+        "task_status_id":"10",
+        "task_status_code":"UATCBC",
+        "task_status_name":"UAT confirmed by Customer"  
+        },
+        "DTL": {
+        "task_status_id":"11",
+        "task_status_code":"DTL",
+        "task_status_name":"Delivered to LIVE"
+        },
+        "CLOSED": {
+        "task_status_id":"12",
+        "task_status_code":"CLOSED",
+        "task_status_name":"Closed"
+        },
+        "UATRBC": {
+        "task_status_id":"13",
+        "task_status_code":"UATRBC",
+        "task_status_name":"UAT rejected by Customer"
+        },
+        "DTT": {
+        "task_status_id":"14",
+        "task_status_code":"DTT",
+        "task_status_name":"Delivered to TEST"
+        },
+        "TRBC": {
+        "task_status_id":"15",
+        "task_status_code":"TRBC",
+        "task_status_name":"TEST rejected by Customer"
+        },
+        "DOD": {
+        "task_status_id":"16",
+        "task_status_code":"DOD",
+        "task_status_name":"Done on DEV"
+        },
+        "ARTL": {
+        "task_status_id":"17",
+        "task_status_code":"ARTL",
+        "task_status_name":"Awaiting release to Live"
+        },
+        "SFD": {
+        "task_status_id":"18",
+        "task_status_code":"SFD",
+        "task_status_name":"Scheduled for development"
+        },
+        "TCBC": {
+        "task_status_id":"19",
+        "task_status_code":"TCBC",
+        "task_status_name":"TEST confirmed by Customer"
+        },
+        "LCBC": {
+        "task_status_id":"20",
+        "task_status_code":"LCBC",
+        "task_status_name":"LIVE confirmed by Customer"
+        },
+        "LRBC": {
+        "task_status_id":"21",
+        "task_status_code":"LRBC",
+        "task_status_name":"LIVE rejected by Customer"
+        },
+        "ON_HAPO": {
+        "task_status_id":"22",
+        "task_status_code":"ON_HAPO",
+        "task_status_name":"On Hold / Awaiting PO"
+        },
+        "POR": {
+        "task_status_id":"23",
+        "task_status_code":"POR",
+        "task_status_name":"PO Received"
+        },
+        "CRR": {
+        "task_status_id":"24",
+        "task_status_code":"CRR",
+        "task_status_name":"CR Rejected"
+        }
+    }
+}
