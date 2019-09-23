@@ -1,0 +1,20 @@
+.img-size {
+	width: 10vw;
+	height: 10vw;
+	min-width: 200px;
+	min-height: 200px;
+}
+
+.gallery {
+	margin: 1em 1em;
+}
+
+.gallery img {
+	transition: 1s;
+	padding: 15px;
+}
+
+.gallery img:hover {
+	filter: grayscale(100%);
+	transform: scale(1.1);
+}

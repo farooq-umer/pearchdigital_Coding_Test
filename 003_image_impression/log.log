@@ -1,0 +1,42 @@
+POST:Array
+(
+    [img_impression] => ["trackEvent:onclick_Image_Impression","imageId:im_img_3","client:Facebook","adName:Facebook_Ad","2019-9-22 12:16:49"]
+)
+POST:Array
+(
+    [img_impression] => ["trackEvent:onclick_Image_Impression","imageId:im_img_1","client:Google","adName:Google_Cloud_Storage","2019-9-22 12:16:51"]
+)
+Date: 2019-09-22 13:20:32 Caught Exception: img_impression is missing POST:Array
+(
+    [img_impress] => ["trackEvent:onclick_Image_Impression","imageId:im_img_2","client:Amazone","adName:Amazone_Web_Services","2019-9-22 12:20:32"]
+)
+
+Date: 2019-09-22 13:20:33 Caught Exception: img_impression is missing POST:Array
+(
+    [img_impress] => ["trackEvent:onclick_Image_Impression","imageId:im_img_6","client:Android","adName:Peanut_Butter_Oreos","2019-9-22 12:20:33"]
+)
+
+POST:Array
+(
+    [img_impression] => ["trackEvent:onclick_Image_Impression","imageId:im_img_6","client:Android","adName:Peanut_Butter_Oreos","2019-9-22 12:21:12"]
+)
+POST:Array
+(
+    [img_impression] => ["trackEvent:onclick_Image_Impression","imageId:im_img_6","client:Android","adName:Peanut_Butter_Oreos","2019-9-22 12:21:47"]
+)
+POST:Array
+(
+    [img_impression] => ["trackEvent:onclick_Image_Impression","imageId:im_img_2","client:Amazone","adName:Amazone_Web_Services","2019-9-22 23:1:48"]
+)
+POST:Array
+(
+    [img_impression] => ["trackEvent:onclick_Image_Impression","imageId:im_img_4","client:MicroSoft","adName:Windows_11_Ad","2019-9-22 23:1:58"]
+)
+POST:Array
+(
+    [img_impression] => ["trackEvent:onclick_Image_Impression","imageId:im_img_6","client:Android","adName:Peanut_Butter_Oreos","2019-9-22 23:1:59"]
+)
+POST:Array
+(
+    [img_impression] => ["trackEvent:onclick_Image_Impression","imageId:im_img_4","client:MicroSoft","adName:Windows_11_Ad","2019-9-22 23:3:14"]
+)
